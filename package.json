@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [npm-install-webpack-plugin (v4.0.4)](https://github.com/ericclemmons/npm-install-webpack-plugin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-npm-install-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-npm-install-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-npm-install-webpack-plugin.svg)](https://travis-ci.org/npmtest/node-npmtest-npm-install-webpack-plugin)",
+    "description": "#### basic test coverage for  [npm-install-webpack-plugin (v4.0.4)](https://github.com/ericclemmons/npm-install-webpack-plugin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-npm-install-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-npm-install-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-npm-install-webpack-plugin.svg)](https://travis-ci.org/npmtest/node-npmtest-npm-install-webpack-plugin)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "npm-install-webpack-plugin": "*",
